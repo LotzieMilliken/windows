@@ -24,7 +24,7 @@ An empty default means the variable is unset and its value is determined automat
 
 | Variable | Default | Description |
 |---|---|---|
-| `CPU_CORES` | `2` | Number of virtual CPU cores, such as `4`, `half`, or `max`. |
+| `CPU_CORES` | `4` | Number of virtual CPU cores, such as `4`, `half`, or `max`. |
 | `CPU_MODEL` | `host` | QEMU CPU model. |
 | `CPU_FLAGS` |  | Additional QEMU CPU flags. |
 | `KVM` | `Y` | Enables KVM hardware acceleration. |
